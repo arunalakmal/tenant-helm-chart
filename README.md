@@ -2,7 +2,7 @@
 
 This helm chart created for a special requirement and replace the OpenShift default project template with this helm chart. 
 
-## Sample value file
+## Sample Value File
 Multi tenants can be created, each tenant can have multiple projects and projects can also have multiple namespaces.
 Below commented section is a new tenant. 
 
